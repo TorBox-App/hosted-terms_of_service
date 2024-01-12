@@ -5,11 +5,21 @@
 <p><strong>By signing up for a TorBox account, you accept the Terms of Conditions stated below.</strong></p>
 <p><strong>We are TorBox ("we", "us", "TorBox") operate https://torbox.app as well as any other related products and services that refer or link to these terms (collectively the "services" or "service").</strong></p>
 
-<h2>Purpose and description of service</h2>
+<h2>Table of Contents</h2>
+<li><a href="#purpose">Purpose and description of service</a></li>
+<li><a href="#dmca">Copyrighted content and DMCA</a></li>
+<li><a href="#best-effort">Best-Effort Service</a></li>
+<li><a href="#dont-sue">Don't sue TorBox please</a></li>
+<li><a href="#termination">How to not get banned from TorBox (Termination of Service)</a></li>
+<li><a href="#vulnerabilities">Vulnerabilities</a></li>
+<li><a href="#privacy">Privacy</a></li>
+<li><a href="#fair-usage">Fair Usage</a></li>
+
+<h2 id="purpose">Purpose and description of service</h2>
 
 <p>TorBox as a service, allows you to download torrents over the BitTorrent peer to peer network onto our servers, and download/stream/use the completed torrents from our storage. This means that you as a user has control over what content or files you download. This service was created for anyone including yourself to download public and freely available content over the BitTorrent network. This means that you must have the legal right to download and use the content or files you download to and from our servers. As such, no copyrighted data is allowed to be stored and accessed from our servers.</p>
 
-<h2>Copyrighted content and DMCA</h2>
+<h2 id="dmca">Copyrighted content and DMCA</h2>
 
 <p>While we prohibit downloading copyrighted content, we cannot monitor or track downloads of users (check our Privacy Policy), which means that actively seeking out and banning users is impossible. TorBox's distribution of content provided by its users does not express or implies approval of material by TorBox, nor does it confirm that the material is in compliance with the Terms of Service.</p>
 
@@ -17,15 +27,15 @@
 
 <p>If you believe to have a valid DMCA, please contact one of our providers. If valid, it will be forwarded to TorBox and we will remove the content within 48 hours.</p>
 
-<h2>Best-Effort Service</h2>
+<h2 id="best-effort">Best-Effort Service</h2>
 
 <p>TorBox is a freemium service offering torrent downloading to its users. TorBox is developed by a small team that does its best to maintain the reliability and uptime of the service. We cannot in good faith guarantee a service level, uptime guarantee, or any other promise of its level of service. Paying for and using the service is subscribing to a fun collective of effort to provide you the best services we can.</p>
 
-<h2>Don't sue TorBox please</h2>
+<h2 id="dont-sue">Don't sue TorBox please</h2>
 
 <p>The service is provided as-is, with no warranty, express or implied. TorBox is under no legal obligation to provide you with service, or keep the service it provides consistent or even available. Even if the service is down for days at a time, we are not legally obligated to reward you in any way, although we always do :). Please don't sue us over stuff we don't have an obligation to provide, we don't have the money for all that. If you have a problem with the service, come talk to us first, and we will figure it out.</p>
 
-<h2>How to not get banned from TorBox (Termination of Service)</h2>
+<h2 id="termination">How to not get banned from TorBox (Termination of Service)</h2>
 
 <p>TorBox reserves the right to ban your account at any time. Below are some examples of when your account may be banned. We are not limited to just these examples either, there can be a lot of ways to get yourself banned (but it usually never happens). There are no refunds for paid accounts who have been banned.</p>
 
@@ -39,15 +49,15 @@
 
 <p>Selling accounts is a no-no too. Just don't, we have lots of payment methods, and will even take other forms of payment if you contact us.</p>
 
-<h2>Vulnerabilities</h2>
+<h2 id="vulnerabilities">Vulnerabilities</h2>
 
 <p>Security and privacy is core to our values at TorBox. If you find a vital security bypass, whether it is our database, download servers, storage servers, or any other service that TorBox runs, please report it to us. Obviously don't make it public, for our sake. You will be handsomely reported you intelligent person you.</p>
 
-<h2>Privacy</h2>
+<h2 id="privacy">Privacy</h2>
 
 <p>TorBox has a robust plain-language privacy policy that details what information is collected and how it is used, and who uses it. By registering for TorBox, you are giving your consent to your data being collected as detailed there. To view it, please go to <a href="https://torbox.app/privacy" target="_blank">https://torbox.app/privacy</a></p>
 
-<h2>Fair Usage</h2>
+<h2 id="fair-usage">Fair Usage</h2>
 
 <p>TorBox is a shared service. That means there are thousands of people other than you who are using TorBox, likely even at the same time. It is your responsibility you aren't negatively affecting any other user of TorBox. You must ensure your resource consumption (such as bandwidth, storage, or even API requests) are within acceptable limits.</p>
 
