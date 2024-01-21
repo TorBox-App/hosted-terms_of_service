@@ -1,6 +1,6 @@
 <h1>TorBox's Terms of Service</h1>
 
-<p>This document is the official and most updated version of the terms of service. This document was last updated Friday, Janurary 12, 2024 and is in effect Friday, Janurary 12, 2024. This document can be found at <a href="https://github.com/TorBox-App/hosted-terms_of_service" target="_blank">https://github.com/TorBox-App/hosted-terms_of_service</a> and <a href="https://torbox.app/terms" target="_blank">https://torbox.app/terms</a> where it is mirrored between sites.</p>
+<p>This document is the official and most updated version of the terms of service. This document was last updated Sunday, Janurary 21, 2024 and is in effect Friday, Janurary 12, 2024. This document can be found at <a href="https://github.com/TorBox-App/hosted-terms_of_service" target="_blank">https://github.com/TorBox-App/hosted-terms_of_service</a> and <a href="https://torbox.app/terms" target="_blank">https://torbox.app/terms</a> where it is mirrored between sites.</p>
 
 <p><strong>By signing up for a TorBox account, you accept the Terms of Conditions stated below.</strong></p>
 <p><strong>We are TorBox ("we", "us", "TorBox") operate https://torbox.app as well as any other related products and services that refer or link to these terms (collectively the "services" or "service").</strong></p>
@@ -16,6 +16,7 @@
 <li><a href="#vulnerabilities">Vulnerabilities</a></li>
 <li><a href="#privacy">Privacy</a></li>
 <li><a href="#fair-usage">Fair Usage</a></li>
+<li><a href="#refunds">Refunds</a></li>
 
 <br/>
 
@@ -82,3 +83,12 @@
 <p>An example of this would be downloading 10, 500gb torrents all at the same time. Sure, you could do this, but c'mon, couldn't you space them out a little more? Are you actually going to use all of those at the same time? Are you just hoarding? What's the big deal dude?</p>
 
 <p>TorBox reserves the right to stop any downloads, or transfers that are negatively affecting the service. Your account will be banned if abuse happens often (or just more than once) and there will be no refunds. Do not use TorBox in an unfair or malicious manner. Please allow everyone to have a great experience using TorBox.</p>
+
+<br/>
+
+<h2 id="Refunds">Refunds</h2>
+
+<p>Generally TorBox does not allow refunds. This is due to the type of service TorBox offers as once you use it once, you have already "used" the service. We don't allow refunds for users who have more than 1 download since their purchase. This is to ensure we are fairly paid for you using our service. Even if you purchase a month long subscription and only use it for a day, if you have more than one download then we do not allow refunds or even partial refunds. Any disputes made will lead to an instant ban from the service as well as an IP ban meaning you will no longer be able to create a new account or log into an existing one. We are a completely freeium service which means you have a ton of time to try out and test the service before hand. If you don't like the service, then don't pay for it! We are a small company and cannot afford to hand out refunds for users who have already used the service. There are some cases where we do offer refunds. One being if the service was not working for an extended period of your subscription. The other being if you are upgrading and want to be prorated for your previous time. We will only offer refunds in those 2 cases.</p>
+
+<br/>
+  
