@@ -1,6 +1,6 @@
 <h1>TorBox's Terms of Service</h1>
 
-<p>This document is the official and most updated version of the terms of service. This document was last updated Tuesday, April 30, 2024 and is in effect Friday, Janurary 12, 2024. This document can be found at <a href="https://github.com/TorBox-App/hosted-terms_of_service" target="_blank">https://github.com/TorBox-App/hosted-terms_of_service</a> and <a href="https://torbox.app/terms" target="_blank">https://torbox.app/terms</a> where it is mirrored between sites.</p>
+<p>This document is the official and most updated version of the terms of service. This document was last updated Monday, September 23, 2024 and is in effect Friday, January 12, 2024. This document can be found at <a href="https://github.com/TorBox-App/hosted-terms_of_service" target="_blank">https://github.com/TorBox-App/hosted-terms_of_service</a> and <a href="https://torbox.app/terms" target="_blank">https://torbox.app/terms</a> where it is mirrored between sites.</p>
 
 <p><strong>By signing up for a TorBox account, you accept the Terms of Conditions stated below.</strong></p>
 <p><strong>We are TorBox ("we", "us", "TorBox") operate https://torbox.app as well as any other related products and services that refer or link to these terms (collectively the "services" or "service").</strong></p>
@@ -17,6 +17,7 @@
 <li><a href="#privacy">Privacy</a></li>
 <li><a href="#fair-usage">Fair Usage</a></li>
 <li><a href="#refunds">Refunds</a></li>
+<li><a href="#info">Business Information</a></li>
 
 <br/>
 
@@ -30,9 +31,9 @@
 
 <p>While we prohibit downloading copyrighted content, we cannot monitor or track downloads of users (check our Privacy Policy), which means that actively seeking out and banning users is impossible. TorBox's distribution of content provided by its users does not express or implies approval of material by TorBox, nor does it confirm that the material is in compliance with the Terms of Service.</p>
 
-<p>We only take action when a valid DMCA request is forwarded to us by our server providers. Let's talk about that for a second. TorBox is an entity of South Africa. Our download servers (where we download torrents to) are hosted in the Netherlands, which means that a valid DMCA, needs to be from an entity of the Netherlands. This means that a DMCA from an entity in the USA is not valid, and will be ignored by our provider. Again, any claims from any other countries, including the USA, will be ignored by our providers.</p>
+<p>We only take action when a valid DMCA request is forwarded to us by our server providers. Let's talk about that for a second. TorBox is an entity of South Africa. Our download servers (where we download torrents, and other file types to) are hosted in the Netherlands, which means that a valid DMCA, needs to be from an entity of the Netherlands. This means that a DMCA from an entity in the USA is not valid, and will be ignored by our provider. Again, any claims from any other countries, including the USA, will be ignored by our providers.</p>
 
-<p>If you believe to have a valid DMCA, please contact one of our providers. If valid, it will be forwarded to TorBox and we will remove the content within 48 hours. If you have an abuse complaint such as knowledge of illicit material being distributed from TorBox, please fill send an email to abuse@torbox.app.</p>
+<p>If you believe you have a valid DMCA, please contact one of our providers. If valid, it will be forwarded to TorBox and we will remove the content within 48 hours. If you have an abuse complaint such as knowledge of illicit material being distributed from TorBox, please fill send an email to abuse@torbox.app.</p>
 
 <br/>
 
@@ -86,8 +87,19 @@
 
 <br/>
 
-<h2 id="Refunds">Refunds</h2>
+<h2 id="refunds">Refunds</h2>
 
 <p>Generally TorBox does not allow refunds. This is due to the type of service TorBox offers as once you use it once, you have already "used" the service. We don't allow refunds for users who have more than 1 download since their purchase. This is to ensure we are fairly paid for you using our service. Even if you purchase a month long subscription and only use it for a day, if you have more than one download then we do not allow refunds or even partial refunds. Any disputes made will lead to an instant ban from the service as well as an IP ban meaning you will no longer be able to create a new account or log into an existing one. We are a completely freeium service which means you have a ton of time to try out and test the service before hand. If you don't like the service, then don't pay for it! We are a small company and cannot afford to hand out refunds for users who have already used the service. There are some cases where we do offer refunds. One being if the service was not working for an extended period of your subscription. The other being if you are upgrading and want to be prorated for your previous time. We will only offer refunds in those 2 cases.</p>
 
+<br/>
+
+<h2 id="info">Business Info</h2>
+
+<p>TorBox is owned by Anonymous Systems (Pty) Ltd, a software company aimed at creating a more accessible and private internet. You can read more information at <a href="https://anonymous.org.za" target="_blank">the parent site</a>.</p>
+<p><b>Anonymous Systems (Pty) Ltd</b></p>
+<p>Registration number: <b>2024/114915/07</b></p>
+<p>Tax number: <b>9737106196</b></p>
+<p>Telephone: <b>+27 8432 08432</b></p>
+<p>Email: <b>contact@anonymous.org.za</b></p>
+<p>1 Bondev Dr<br/>Centurion, Gauteng, 0157<br/>South Africa</p>
 <br/>
