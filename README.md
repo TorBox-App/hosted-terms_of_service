@@ -17,7 +17,6 @@
 <li><a href="#privacy">Privacy</a></li>
 <li><a href="#fair-usage">Fair Usage</a></li>
 <li><a href="#refunds">Refunds</a></li>
-<li><a href="#info">Business Information</a></li>
 
 <br/>
 
@@ -91,15 +90,4 @@
 
 <p>Generally TorBox does not allow refunds. This is due to the type of service TorBox offers as once you use it once, you have already "used" the service. We don't allow refunds for users who have more than 1 download since their purchase. This is to ensure we are fairly paid for you using our service. Even if you purchase a month long subscription and only use it for a day, if you have more than one download then we do not allow refunds or even partial refunds. Any disputes made will lead to an instant ban from the service as well as an IP ban meaning you will no longer be able to create a new account or log into an existing one. We are a completely freeium service which means you have a ton of time to try out and test the service before hand. If you don't like the service, then don't pay for it! We are a small company and cannot afford to hand out refunds for users who have already used the service. There are some cases where we do offer refunds. One being if the service was not working for an extended period of your subscription. The other being if you are upgrading and want to be prorated for your previous time. We will only offer refunds in those 2 cases.</p>
 
-<br/>
-
-<h2 id="info">Business Info</h2>
-
-<p>TorBox is owned by Anonymous Systems (Pty) Ltd, a software company aimed at creating a more accessible and private internet. You can read more information at <a href="https://anonymous.org.za" target="_blank">the parent site</a>.</p>
-<p><b>Anonymous Systems (Pty) Ltd</b></p>
-<p>Registration number: <b>2024/114915/07</b></p>
-<p>Tax number: <b>9737106196</b></p>
-<p>Telephone: <b>+27 8432 08432</b></p>
-<p>Email: <b>contact@anonymous.org.za</b></p>
-<p>1 Bondev Dr<br/>Centurion, Gauteng, 0157<br/>South Africa</p>
 <br/>
