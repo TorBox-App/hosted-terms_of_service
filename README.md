@@ -1,6 +1,6 @@
 <h1>TorBox's Terms of Service</h1>
 
-<p>This document is the official and most updated version of the terms of service. This document was last updated Wednesday, January 1, 2025 and is in effect Friday, January 12, 2024. This document can be found at <a href="https://github.com/TorBox-App/hosted-terms_of_service" target="_blank">https://github.com/TorBox-App/hosted-terms_of_service</a> and <a href="https://torbox.app/terms" target="_blank">https://torbox.app/terms</a> where it is mirrored between sites.</p>
+<p>This document is the official and most updated version of the terms of service. This document was last updated Thursday, November 6, 2025 and is in effect Friday, January 12, 2024. This document can be found at <a href="https://github.com/TorBox-App/hosted-terms_of_service" target="_blank">https://github.com/TorBox-App/hosted-terms_of_service</a> and <a href="https://torbox.app/terms" target="_blank">https://torbox.app/terms</a> where it is mirrored between sites.</p>
 
 <p><strong>By signing up for a TorBox account, you accept the Terms of Conditions stated below.</strong></p>
 <p><strong>We are TorBox ("we", "us", "TorBox") operate https://torbox.app as well as any other related products and services that refer or link to these terms (collectively the "services" or "service").</strong></p>
@@ -15,6 +15,7 @@
 <li><a href="#termination">Termination of Service</a></li>
 <li><a href="#vulnerabilities">Vulnerabilities</a></li>
 <li><a href="#privacy">Privacy</a></li>
+<li><a href="#age-restriction">Age Restriction</a></li>
 <li><a href="#feature-removal">Removal of Features</a></li>
 <li><a href="#fair-usage">Fair Usage and Abuse</a></li>
 <li><a href="#refunds">Refunds</a></li>
@@ -23,7 +24,7 @@
 
 <h2 id="purpose">Purpose and Description of Service</h2>
 
-<p>TorBox provides a service enabling users to rent servers for downloading public resources from the BitTorrent network, with our servers acting as a proxy on your behalf. TorBox does not control any BitTorrent peers or files, and users are responsible for ensuring they have the legal rights to download the content accessed through our servers. This service is designed to facilitate the download of publicly available and freely distributed materials, such as Linux distributions, independent artists' content, or other non-commercial software. No copyrighted material is stored on or made publicly accessible from our servers. Download links are exclusively available to the users who initiate the transfers.</p>
+<p>TorBox provides a service enabling users to rent servers for downloading public resources from the BitTorrent network, with our servers acting as a proxy on your behalf. TorBox does not control any BitTorrent peers or files, and users are responsible for ensuring they have the legal rights to download the content accessed through our servers. This service is designed to facilitate the download of publicly available and freely distributed materials, such as Linux distributions, independent artists' content, or other non-commercial software. No copyrighted material is stored on or made publicly accessible from our servers. Download links are exclusively available to the users who initiate the transfers. TorBox is not a file sharing service. TorBox is a privacy infrastructure company, working to provide users around the world with the tools for accessing the internet in a way that promotes freedom.</p>
 
 <br/>
 
@@ -33,19 +34,20 @@
 <ul>
   <li>Downloading or uploading licensed media or copyrighted content.</li>
   <li>Downloading or uploading Child Sexual Abuse Material (CSAM).</li>
+  <li>Downloading or uploading Adult Content.</li>
   <li>Downloading or uploading of malware, viruses, worms, Trojan horses, or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment.</li>
   <li>Downloading or uploading anything illegal in the country of South Africa.</li>
   <li>Downloading or uploading anything illegal in the country of the Netherlands.</li>
   <li>Downloading or uploading anything illegal in the country of the United States of America.</li>
 </ul>
 
-<p>If you believe you have a valid complaint against a user on our platform, please contact abuse@torbox.app with a valid complaint and you will be answered within 24-48 hours.</p>
+<p>If you believe you have a valid complaint against content on our platform, please contact abuse@torbox.app with a valid complaint and you will be answered within 24-48 business hours.</p>
 
 <br/>
 
 <h2 id="best-effort">Best-Effort Service</h2>
 
-<p>TorBox is a freemium service offering torrent downloading to its users. TorBox is developed by a small team that does its best to maintain the reliability and uptime of the service. We cannot in good faith guarantee a service level, uptime guarantee, or any other promise of its level of service. Paying for and using the service is subscribing to a fun collective of effort to provide you the best services we can. No refunds are given due to poor service performance, or downtime.</p>
+<p>TorBox is developed by a small team that does its best to maintain the reliability and uptime of the service. We cannot in good faith guarantee a service level, uptime guarantee, or any other promise of its level of service. Paying for and using the service is subscribing to a fun collective of effort to provide you the best services we can. No refunds are given due to poor service performance, or downtime.</p>
 
 <br/>
 
@@ -65,10 +67,10 @@
   <li>Upload, download, transmit, or otherwise make available any content of which you do not have the right to make available under any law or under contractual or fiduciary relationship.</li>
   <li>Upload, download, transmit, or otherwise make available any content that infringes on any patent, trademark, trade secret, copyright, or other proprietary rights of any party including the right of privacy.</li>
   <li>Attempting to cheat or scam TorBox. Any charge backs, carding, or other abusive payment tricks will get your account banned from TorBox.</li>
-  <li>Sharing private download links to content hosted on TorBox.</li>
-  <li>Abusing the API.</li>
+  <li>Sharing private download links to content hosted on your TorBox private server.</li>
+  <li>Abusing the API; bypassing ratelimits, exploiting vulnerabilities, etc.</li>
   <li>Selling or overly sharing accounts.</li>
-  <li>Unauthorized reselling of our service, such as through Plex shares, or Stremio addons</li>
+  <li>Unauthorized reselling of our service, such as through Plex shares, or Stremio addons.</li>
 </ul>
 <p></p>
 
@@ -86,6 +88,12 @@
 
 <br/>
 
+<h2 id="age-restriction">Age Restriction</h2>
+
+<p>TorBox's website and services are not to be used by anyone under the age of 18.</p>
+
+<br/>
+
 <h2 id="feature-removal">Removal of Features</h2>
 
 <p>TorBox has no obligation to keep new or previous features available to users or any user on our service. We may remove or discontinue features as we decide without notification. No refunds will be given if a feature you paid for is removed during your paid use of TorBox.</p>
@@ -98,7 +106,7 @@
 
 <p>You can read more about our abuse system, and how to avoid warnings and bans <a href="https://support.torbox.app/en/articles/10336778-the-torbox-abuse-system">here</a>.</p>
 
-<p>TorBox reserves the right to stop any downloads, or transfers that are negatively affecting the service. TorBox also reserves the right to remove any files or content from our servers at any time without notification. Your account will be warned and banned if you do not abide by these terms.. Do not use TorBox in an unfair or malicious manner. Please allow everyone to have a great experience using TorBox.</p>
+<p>TorBox reserves the right to stop any downloads, or transfers that are negatively affecting the service. TorBox also reserves the right to remove any files or content from our servers at any time without notification. Your account will be warned and banned if you do not abide by these terms. Do not use TorBox in an unfair or malicious manner. Please allow everyone to have a great experience using TorBox.</p>
 
 <br/>
 
