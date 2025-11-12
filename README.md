@@ -19,6 +19,7 @@
 <li><a href="#feature-removal">Removal of Features</a></li>
 <li><a href="#fair-usage">Fair Usage and Abuse</a></li>
 <li><a href="#refunds">Refunds</a></li>
+<li><a href="#subscriptions">Subscriptions</li>
 
 <br/>
 
@@ -112,6 +113,14 @@
 
 <h2 id="refunds">Refunds</h2>
 
-<p>TorBox does not offer refunds. This is due to the type of service TorBox offers as once you use it once, you have already "used" the service. We don't allow refunds for users who have more than 1 download since their purchase. This is to ensure we are fairly paid for you using our service. Even if you purchase a month long subscription and only use it for a day, if you have more than one download then we do not allow refunds or even partial refunds. Any disputes made will lead to an instant ban from the service as well as an IP ban meaning you will no longer be able to create a new account or log into an existing one. We are a completely freeium service which means you have a ton of time to try out and test the service before hand. If you don't like the service, then don't pay for it! We are a small company and cannot afford to hand out refunds for users who have already used the service.</p>
+<p>TorBox does not offer refunds. This is due to the type of service TorBox offers as once you use it once, you have already "used" the service. We don't allow refunds for users who have more than 1 download since their purchase. This is to ensure we are fairly paid for you using our service. Even if you purchase a month long subscription and only use it for a day, if you have more than one download then we do not allow refunds or even partial refunds. Any disputes made will lead to an instant ban from the service as well as an IP ban meaning you will no longer be able to create a new account or log into an existing one.</p>
 
 <br/>
+
+<h2 id="subscriptions">Subscriptions</h2>
+
+<p>TorBox offers paid recurring subscriptions to make it less of a hassle every month to continue using our service. We offer all plans as a subscription, that being, Essential, Standard and Pro plans, all have a 1 month, or 1 year recurring subscription you can purchase. Subscriptions are charged in advance for each billing period, and each payment is processed immediately.</p>
+
+<p>TorBox also offers a free trial to allow users to test the service. The free trial automatically subscribes you to the Pro TorBox Plan after the 24 hours of trial service. Only first time subscribers are eligible for the trial. Creating and deleting accounts to access the trial is prohibited. Using the trial for abusive purposes is prohibited. Cancelling the trial will immediately cancel the upgrade, and leave you with the remaining time left on your trial. Your attached payment method will not be charged if cancelled.</p>
+
+<p>Users may cancel their subscription at any time by navigating to the <a href="https://torbox.app/settings">settings</a> page, choosing the applicable subscription, and clicking "Cancel Subscription". Users may also <a href="https://torbox.app/contact">contact</a> support to cancel their subscription. Subscription cancellation is instant, and will immediately stop billing your attached payment method. The service remains active until the time on your account has elapsed, usually the end of the billing period. There is no partial refunds for unused time.</p>
