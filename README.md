@@ -19,7 +19,7 @@
 <li><a href="#feature-removal">Removal of Features</a></li>
 <li><a href="#fair-usage">Fair Usage and Abuse</a></li>
 <li><a href="#refunds">Refunds</a></li>
-<li><a href="#subscriptions">Subscriptions</li>
+<li><a href="#subscriptions">Subscriptions</a></li>
 
 <br/>
 
