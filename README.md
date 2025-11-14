@@ -5,6 +5,10 @@
 <p><strong>By signing up for a TorBox account, you accept the Terms of Conditions stated below.</strong></p>
 <p><strong>We are TorBox ("we", "us", "TorBox") operate https://torbox.app as well as any other related products and services that refer or link to these terms (collectively the "services" or "service").</strong></p>
 
+<p>Mailing Addresses</p>
+<p>1 Bondev Dr<br/>Centurion, Gauteng, 0157<br/>South Africa</p></p>
+<p>1111B S Governors Ave STE 25425<br/>Dover, Deleware, 19904<br/>United States</p></p>
+
 <br/>
 
 <h2>Table of Contents</h2>
