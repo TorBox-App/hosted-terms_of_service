@@ -5,8 +5,12 @@
 <p><strong>By signing up for a TorBox account, you accept the Terms of Conditions stated below.</strong></p>
 <p><strong>We are TorBox ("we", "us", "TorBox") operate https://torbox.app as well as any other related products and services that refer or link to these terms (collectively the "services" or "service").</strong></p>
 
-<p>Mailing Addresses</p>
+<br/>
+
+<p><b>Mailing Addresses</b></p>
+
 <p>1 Bondev Dr<br/>Centurion, Gauteng, 0157<br/>South Africa</p></p>
+
 <p>1111B S Governors Ave STE 25425<br/>Dover, Deleware, 19904<br/>United States</p></p>
 
 <br/>
@@ -124,7 +128,5 @@
 <h2 id="subscriptions">Subscriptions</h2>
 
 <p>TorBox offers paid recurring subscriptions to make it less of a hassle every month to continue using our service. We offer all plans as a subscription, that being, Essential, Standard and Pro plans, all have a 1 month, or 1 year recurring subscription you can purchase. Subscriptions are charged in advance for each billing period, and each payment is processed immediately.</p>
-
-<p>TorBox also offers a free trial to allow users to test the service. The free trial automatically subscribes you to the Pro TorBox Plan after the 24 hours of trial service. Only first time subscribers are eligible for the trial. Creating and deleting accounts to access the trial is prohibited. Using the trial for abusive purposes is prohibited. Cancelling the trial will immediately cancel the upgrade, and leave you with the remaining time left on your trial. Your attached payment method will not be charged if cancelled.</p>
 
 <p>Users may cancel their subscription at any time by navigating to the <a href="https://torbox.app/settings">settings</a> page, choosing the applicable subscription, and clicking "Cancel Subscription". Users may also <a href="https://torbox.app/contact">contact</a> support to cancel their subscription. Subscription cancellation is instant, and will immediately stop billing your attached payment method. The service remains active until the time on your account has elapsed, usually the end of the billing period. There is no partial refunds for unused time.</p>
