@@ -19,7 +19,6 @@
 <li><a href="#purpose">Purpose and Description of Service</a></li>
 <li><a href="#dmca">Prohibited Content</a></li>
 <li><a href="#best-effort">Best-Effort Service</a></li>
-<li><a href="#dont-sue">Don't Sue TorBox Please</a></li>
 <li><a href="#termination">Termination of Service</a></li>
 <li><a href="#vulnerabilities">Vulnerabilities</a></li>
 <li><a href="#privacy">Privacy</a></li>
